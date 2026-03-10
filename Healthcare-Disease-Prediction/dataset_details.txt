@@ -1,0 +1,8 @@
+Dataset Name:
+Pima Indians Diabetes Dataset
+
+Source:
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+Direct CSV:
+https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv
