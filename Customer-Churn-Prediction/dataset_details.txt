@@ -1,0 +1,8 @@
+Dataset Name:
+Telco Customer Churn Dataset
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Direct CSV:
+https://raw.githubusercontent.com/IBM/telco-customer-churn-on-icp4d/master/data/Telco-Customer-Churn.csv
